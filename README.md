@@ -1,2 +1,2 @@
 # registry
-registry
+registry 镜像
